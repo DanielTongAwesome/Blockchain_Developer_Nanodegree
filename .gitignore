@@ -3,3 +3,4 @@
 
 # ignore all node modules
 **/node_modules
+**/Test_Code
